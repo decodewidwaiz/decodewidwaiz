@@ -63,7 +63,7 @@ Hi, I'm a recent graduate with a passion for building practical tools, extension
 
 <h4 align="center">GeeksforGeeks Stats</h4>
 <div align="center">
-<a href="https://www.geeksforgeeks.org/user/[YOUR_GFG_USERNAME]/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/medecodexjg2/" target="_blank">
 <img src="https://gfgstatscard.vercel.app/[YOUR_GFG_USERNAME]" alt="GeeksforGeeks Stats" />
 </a>
 </div>
@@ -83,3 +83,4 @@ Hi, I'm a recent graduate with a passion for building practical tools, extension
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+to+new+opportunities...;Let's+build+something+awesome!;Crafting+solutions+with+code.&center=true&width=500&color=F7F7F7&vCenter=true&size=18">
 </p>
+
