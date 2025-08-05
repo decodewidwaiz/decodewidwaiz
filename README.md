@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
 ---
@@ -64,15 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodewidwaiz&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="200"/>
 </p>
 
----
-
-## 🧠 LeetCode Grind
-
-<p align="center">
-  <a href="https://leetcode.com/u/Waizalam68/">
-    <img src="https://leetcard.jacoblin.cool/Waizalam68?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ---
 
@@ -90,4 +81,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+tools...;Exploring+AI+and+automation.;Building+with+purpose+and+passion.&center=true&width=500&color=F7F7F7&vCenter=true&size=18"/>
 </p>
+
 
