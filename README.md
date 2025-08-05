@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" />
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
 ---
@@ -79,18 +79,9 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/decodewidwaiz/plant-disease-predictor"><img alt="Plant Disease Predictor" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=plant-disease-predictor&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/decodewidwaiz/schedule-sensei"><img alt="Schedule Sensei" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=schedule-sensei&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/decodewidwaiz/ImagiNet"><img alt="Ai image generator" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=ImagiNet&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/decodewidwaiz/Linkkeper-dummmy-Frontend"><img alt="Schedule Sensei" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=Linkkeper-dummmy-Frontend&theme=radical&hide_border=true" /></a>
 </p>
-
----
-
-## ✍️ Fun & Facts
-
-- 💡 I love turning **what ifs** into live projects
-- ☕ Caffeine + Code = 🧠 Boost mode
-- 🌌 Always curious about **how things work under the hood**
-- ⏱️ Often caught debugging at 3am (relatable?)
 
 ---
 
@@ -99,3 +90,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+tools...;Exploring+AI+and+automation.;Building+with+purpose+and+passion.&center=true&width=500&color=F7F7F7&vCenter=true&size=18"/>
 </p>
+
