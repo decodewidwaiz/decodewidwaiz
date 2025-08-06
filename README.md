@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hey there, I'm Md Waiz Alam 👋</h1>
+<h1 align="center">Hey there, I'm Waiz Alam 👋</h1>
 <p align="center"><i>Engineer by mindset • Builder by passion • Learner by nature</i></p>
 
 <div align="center">
@@ -81,6 +81,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+tools...;Exploring+AI+and+automation.;Building+with+purpose+and+passion.&center=true&width=500&color=F7F7F7&vCenter=true&size=18"/>
 </p>
+
 
 
 
