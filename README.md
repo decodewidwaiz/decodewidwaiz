@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍🚀 About Me
 
 - 🧑‍💻 Tech enthusiast with a love for clean, functional code and impactful ideas.
 - 🔍 Exploring the intersection of **AI**, **automation**, and **developer tools**.
@@ -34,22 +34,8 @@
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> My Expertise & Technology Stack
+<div style="background-color: #0D1117; padding: 30px; border-radius: 15px; border: 2px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.2);"> <div style="margin-bottom: 30px;"> <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;"> 🎯 Core Languages & Frameworks </h3> <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);"> <p align="center"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,nodejs,react,nextjs,express" alt="Languages" style="margin-bottom: 15px;"><br> </p> </div> </div> <div style="margin-bottom: 30px;"> <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;"> 🚀 Backend Development & Database Technologies </h3> <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);"> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend & Databases" style="margin-bottom: 15px;"><br> </p> </div> </div> <div style="margin-bottom: 30px;"> <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;"> ⚛️ Frontend Development & UI/UX </h3> <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);"> <p align="center"> <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,vite,html,css,sass,materialui" alt="Frontend Technologies"> </p> </div> </div> <div> <h3 style="color: #FFD700; font-size: 20px; margin-bottom: 20px; border-bottom: 2px solid #FFD700; padding-bottom: 10px; display: inline-block;"> ☁️ Cloud & DevOps </h3> <div style="background-color: rgba(0, 212, 170, 0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 212, 170, 0.3);"> <p align="center"> <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,firebase" alt="Cloud & DevOps"> </p> </div> </div> </div>
 
 ---
 
@@ -81,6 +67,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+tools...;Exploring+AI+and+automation.;Building+with+purpose+and+passion.&center=true&width=500&color=F7F7F7&vCenter=true&size=18"/>
 </p>
+
 
 
 
