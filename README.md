@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/waiz-alam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/wxyz.exe/" target="_blank">
+  <a href="https://www.instagram.com/waiz.env/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
   <a href="mailto:medcodewidwaiz@gmail.com" target="_blank">
@@ -67,6 +67,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+impactful+tools...;Exploring+AI+and+automation.;Building+with+purpose+and+passion.&center=true&width=500&color=F7F7F7&vCenter=true&size=18"/>
 </p>
+
 
 
 
