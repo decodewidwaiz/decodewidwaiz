@@ -57,9 +57,26 @@
 
 ## 🧩 Featured Projects
 
+<h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
-  <a href="https://github.com/decodewidwaiz/ImagiNet"><img alt="Ai image generator" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=ImagiNet&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/decodewidwaiz/Linkkeper-dummmy-Frontend"><img alt="linkkeeper" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=Linkkeper-dummmy-Frontend&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/decodewidwaiz/VisionAi">
+    <img alt="VisionAI" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=VisionAi&theme=radical&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/decodewidwaiz/VerifyX-webThree">
+    <img alt="VerifyX" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=VerifyX-webThree&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/decodewidwaiz/CivicSync">
+    <img alt="CivicSync" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=CivicSync&theme=radical&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/decodewidwaiz/Nexus-E1">
+    <img alt="Nexus-E1" src="https://github-readme-stats.vercel.app/api/pin/?username=decodewidwaiz&repo=Nexus-E1&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
